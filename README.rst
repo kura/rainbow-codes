@@ -10,6 +10,8 @@ during World War II.
 Usage
 =====
 
-code-block:: python
+.. code-block:: bash
 
     python rainbow-codes.py
+
+I use this for giving project release versions a name.
